@@ -1,5 +1,5 @@
-/*	Autores: 	Paula Macedo da Cruz
-				Rodrigo Avelar 
+/*	Autor: 	Paula Macedo da Cruz
+				 
 	Data:		19 de Julho de 2016.
 
 	Descrição : Sistema de cotação de preços, que possui como entrada dois arquivos textos. O primeiro arquivo de entrada contém apenas 
