@@ -1,0 +1,6 @@
+10 estojo
+12 regua
+26 tesoura
+33 apontador
+68 caneta
+99 mochila
