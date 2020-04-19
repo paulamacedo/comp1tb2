@@ -1,5 +1,5 @@
 /*	Autores: 	Paula Macedo da Cruz
-				Rodrigo Avelar 
+				
 	Data:		19 de Julho de 2016.
 
 	Descrição : Arquivo de implementação das funções descritas no arquivo "func.h".
